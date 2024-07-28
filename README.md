@@ -2,7 +2,7 @@
 <!-- # Tanu Khanuja, PhD-->
 ### Data Science Enthusiast | Doctorate in Computational Biomechanices
 
-Hi, I’m Tanu Khanuja! As a data scientist, I love turning data into fascinating stories. My journey began as a doctorate in biomechanics, where I used math to tackle complex brain injury problems.
+Hi, I’m Tanu! As a data scientist, I love turning data into fascinating stories. My journey began as a doctorate in biomechanics, where I used math to tackle complex brain injury problems.
 
 Now, I freelance on diverse projects and enjoy working with innovative people. I bring excitement and expertise to everything I do.
 

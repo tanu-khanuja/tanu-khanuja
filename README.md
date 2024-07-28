@@ -1,12 +1,14 @@
 ![](https://github.com/tanu-khanuja/tanu-khanuja/blob/main/banner.gif)
 <!-- # Tanu Khanuja, PhD-->
-### Data Science Enthusiast | Doctorate in Computational Biomechanices
+### Data Science Enthusiast | Doctorate in Computational Biomechanics
 
-Hi, I’m Tanu! As a data scientist, I love turning data into fascinating stories. My journey began as a doctorate in biomechanics, where I used math to tackle complex brain injury problems.
+Hi, I’m Tanu! I absolutely love transforming data into fascinating stories. I started out in biomechanics, using math to tackle brain injury problems.
 
-Now, I freelance on diverse projects and enjoy working with innovative people. I bring excitement and expertise to everything I do.
+Now, I freelance and get to work on all kinds of projects with amazing people.
 
-Check out some of the interesting projects I’ve worked on and see how we can make data do amazing things together!
+Check out some of the cool projects I’ve been working on, and let’s see how we can make data tell incredible stories together!
+
+
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanu-khanuja&theme=dark)](https://github.com/tanu-khanuja/tanu-khanuja)
 

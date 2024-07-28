@@ -1,5 +1,5 @@
 ![](https://github.com/tanu-khanuja/tanu-khanuja/blob/main/banner.gif)
-# Tanu Khanuja, PhD
+<!-- # Tanu Khanuja, PhD-->
 ### Data Science Enthusiast | Doctorate in Computational Biomechanices
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanu-khanuja&theme=dark)](https://github.com/tanu-khanuja/tanu-khanuja)
